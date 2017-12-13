@@ -1,2 +1,2 @@
 # TTT
-Tic Tac Toe MVC
+"Thicc" (pun) Tac Toe MVC
